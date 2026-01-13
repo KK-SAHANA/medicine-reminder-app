@@ -122,3 +122,8 @@ flutter pub get
 Run the app:
 
 flutter run
+
+🙌 Author
+
+Developed by Sahana K Katenahalli
+Flutter Developer | Computer Science Student
