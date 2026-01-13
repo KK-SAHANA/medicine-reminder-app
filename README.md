@@ -1,5 +1,3 @@
-.
-
 💊 Medicine Reminder App (Flutter)
 
 A simple and clean Medicine Reminder application built using Flutter, designed to help users schedule their daily medicines and receive reminders at the correct time.
